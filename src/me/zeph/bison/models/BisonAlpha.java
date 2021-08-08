@@ -78,9 +78,7 @@ public class BisonAlpha extends EntityPig {
 
 	        if (!(entity instanceof EntityHuman)) {
 	            return false;
-	        } else {
-	        	Player player = (Player) entity;
-	            this.setYawPitch(player.getEyeLocation().getPitch(), player.getEyeLocation().getYaw());
+	        } else 
 	            return true;
 	        }
 	    }
