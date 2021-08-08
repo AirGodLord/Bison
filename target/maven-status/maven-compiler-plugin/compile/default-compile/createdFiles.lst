@@ -1,0 +1,7 @@
+me\zeph\bison\abilities\Abilities.class
+me\zeph\bison\abilities\Abilities$BisonModes.class
+me\zeph\bison\bison\Bison.class
+me\zeph\bison\listeners\SpawnEntity.class
+me\zeph\bison\listeners\AbilityListener.class
+me\zeph\bison\models\BisonAlpha$ControllerPig.class
+me\zeph\bison\models\BisonAlpha.class
